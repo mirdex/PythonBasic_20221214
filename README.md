@@ -1,4 +1,4 @@
-## 聯成電腦 - Data Basic
+## 聯成電腦 - Python Basic
 
 #### 上課時間
 
