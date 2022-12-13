@@ -19,3 +19,4 @@
 - 實務練習
 
 #### 課程大綱
+- [1. 環境建置](http://mirdex.github.io/PythonBasic_20221214/1.%20environment.slides.html)
